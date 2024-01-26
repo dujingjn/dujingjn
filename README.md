@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Jing Du
+- 👀 I’m interested in `python3`
+- 🌱 I’m currently learning `nodejs`
+- 💞️ I’m looking to collaborate on web dev
+- 📫 How to reach me `dujingjn@proton.me`
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
